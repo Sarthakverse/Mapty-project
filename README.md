@@ -1,25 +1,30 @@
-# mapty_JS_App
 
-Mapty App - Built with Javascript <br>
+# Mapty
 
-Student project created as part of the Modern JavaScript Bootcamp by Jonas Schedtmann, accessible via the online business-school Udemy.com <br>
+Mapty is an interactive workout tracking application that integrates with the Leaflet API to provide location-based workout logging. With Mapty, you can record running and cycling workouts on an interactive map, view details of past workouts, and manage your workout history
 
-Independently developed functionalities:
+![Screenshot 2025-01-12 231035](https://github.com/user-attachments/assets/63de93e1-10bc-42f9-b87c-ecaa3f03403e)
 
-- Ability to <b>delete</b> a workout
-- Ability to <b>delete all</b> workouts
+# Features
+- `Workout Tracking`: Log running and cycling workouts with details like distance, duration, cadence, and elevation gain.
 
-Future functionalities: <br>
+- `Interactive Map`: Use your geolocation to display an interactive map and plot workouts as markers.
 
-- Ability to <b>edit</b> a workout
-- Create <b>'Add Workout'<b> button to better improve the App`s UX and UI.
-- Ability to <b>sort</b> workouts by a certain field (e.g. distance)
-- <b>Re-build</b> Running & Cycling objects exiting local storage
-- More realistic error and confirmation <b>messages</b>
-- Ability to position the map to show all workouts [very hard]
-- Ability to <b>draw lines and shapes</b> instead of just points [very hard]
-- <b>Geocode</b> location from coordinates ("Run in Faro, Portugal") [ASYNC JS]
-- <b>Display weather data</b> for workout time and place [ASYNC JS]
+- `Persistent Storage`: Save workouts in local storage to ensure they persist across page reloads.
 
-Preview the app via this link --->
-https://user-images.githubusercontent.com/73433189/115226099-c1e7c600-a106-11eb-8e7c-65132631d93e.mp4
+- `Responsive Design`: Optimized for both desktop and mobile screens.
+
+- `Workout Management`: Edit or delete individual workouts, or clear all workout data.
+
+- `Leaflet Integration`: Leveraging Leaflet.js for mapping functionalities.
+
+# Technologies Used
+
+- **HTML5**: Structure and layout of the application.
+
+- **CSS3**: Styling and responsive design.
+
+- **JavaScript (ES6)**: Core functionality and user interactions.
+
+- **Leaflet.js**: Map rendering and geospatial functionalities.
+
