@@ -1,6 +1,6 @@
 
 # Mapty
-
+- This project is one of my learnings from jonas schmedtmann course on udemy
 Mapty is an interactive workout tracking application that integrates with the Leaflet API to provide location-based workout logging. With Mapty, you can record running and cycling workouts on an interactive map, view details of past workouts, and manage your workout history
 
 ![Screenshot 2025-01-12 231035](https://github.com/user-attachments/assets/63de93e1-10bc-42f9-b87c-ecaa3f03403e)
